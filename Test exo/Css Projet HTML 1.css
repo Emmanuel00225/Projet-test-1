@@ -1,0 +1,36 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+a{
+    margin: 10px;
+}
+
+.div1{
+   margin-left: 5px;
+    width: 33%;
+    height: auto;
+    display: inline-block;
+}
+
+.div2{
+    width: 33%;
+    height: auto;
+    display: inline-block;
+}
+
+
+.div3{
+    width: 33%;
+    height: auto;
+    display: inline-block
+}
+
+.div4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
